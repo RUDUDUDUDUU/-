@@ -193,3 +193,4 @@ while run:
          window.fill((255, 255, 255))
          window.blit(transform.scale(img, (win_width, win_height)), (0, 0))
  display.update()
+#Игра готова
